@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message test{
+    float brake = 3;
+    int32 counter = 4;
+}
